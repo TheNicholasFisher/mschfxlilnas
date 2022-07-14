@@ -14,7 +14,7 @@
     font-display:swap
 }
 @font-face{
-    font-family: 'Earwig Factory', sans-serif;
+    font-family:Earwig Factory;
     src:url(fonts/earwig-factory.f48d78c.woff2) format("woff2");
     font-weight:400;
     font-style:normal;
